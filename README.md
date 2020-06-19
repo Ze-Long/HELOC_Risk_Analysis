@@ -24,5 +24,3 @@ Bagging
 Boosting
 
 Random Forest
-
-Learn more about this project at the [HELOC Risk Analysis](https://github.com/Ze-Long/HELOC_Risk_Analysis).
