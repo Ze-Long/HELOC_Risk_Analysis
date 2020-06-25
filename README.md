@@ -27,4 +27,4 @@ Random Forest
 
 ## Model Selection And Evaluation
 
-After using cross validation to evaluate the models, we find that random forest with 28 trees outperformed other models. It achieves a 74% accuracy. Although more and deeper trees will make the accuracy even higher, it also makes the model much more conputationally expensive.
+After using cross validation to evaluate the models, we find that random forest with 28 trees outperformed other models. It achieves a 74% accuracy. Although more and deeper trees will make the accuracy even higher, it also makes the model much more conputationally expensive. Sometimes we don't want to pay huge costs just to be a little bit more accurate.
